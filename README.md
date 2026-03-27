@@ -7,10 +7,10 @@
 ## 🎯 Key Objectives
 The organization faced challenges in tracking real-time profit margins across diverse product lines (Bars, Bites, etc.) and understanding the correlation between shipment volumes and operational costs.
 
-** Objectives:**
-** Analyze Profitability:** Monitor the 60.3% global profit margin and identify underperforming products.
-** Operational Efficiency:** Evaluate shipment distributions and cost-to-sales ratios.
-** Market Intelligence:** Compare performance across different global territories and product categories.
+* **Objectives: **
+* **Analyze Profitability:** Monitor the 60.3% global profit margin and identify underperforming products.
+* **Operational Efficiency:** Evaluate shipment distributions and cost-to-sales ratios.
+* **Market Intelligence:** Compare performance across different global territories and product categories.
 * **Revenue Analysis:** Track total sales and shipment volumes (boxes) over time.
 * **Geographical Insights:** Identify high-performing regions (APAC, Americas, Europe).
 * **Product Performance:** Analyze sales by category (Bars, Bites, Others) and specific products.
