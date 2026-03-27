@@ -16,6 +16,12 @@ The organization faced challenges in tracking real-time profit margins across di
 * **Product Performance:** Analyze sales by category (Bars, Bites, Others) and specific products.
 * **Sales Team Evaluation:** Monitor individual salesperson performance and team rankings (Team Yummies, Delish, Jucies).
 
+## 🔍 Key Insights & Findings
+* **Financial Health:** The business maintains a healthy 60.3% overall profit margin, generating $21M in profit from $34M in revenue.
+*  **Product Superstars:** Manuka Honey Choco and Orange Choco are top performers with profit margins exceeding 78%.
+*  **The "Efficiency Gap":** While total sales are high, the current month saw a 10.8% MoM decline, signaling a need for immediate marketing intervention.
+*  **Shipping Bottlenecks:** Shipment analysis shows a heavy concentration of small-batch shipments (0–500 units), which may be driving up the $14M total cost.
+
 ## 📊 Data Architecture
 The report is built on a robust relational data model (Star Schema):
 * **Shipment Data (Fact Table):** Contains transaction-level details (Sales, Boxes, Dates).
