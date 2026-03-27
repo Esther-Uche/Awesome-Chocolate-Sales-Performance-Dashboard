@@ -2,9 +2,15 @@
 
 ![Awesome-Chocolate-Sales-Performance-Dashboard](./Awesome-Choco.png)
 ## 📋 Project Overview
-This Power BI project provides a 360-degree view of Awesome Chocolates' global operations analyzing $34M in total sales and 6K shipments inorder to identify profitability drivers, sales performance, product trends, cost inefficiencies, and market expansion opportunities across multiple regions including the USA, UK, India, Canada, and Australia.
+ This Power BI project provides a 360-degree view of Awesome Chocolates' global operations analyzing $34M in total sales and 6K shipments inorder to identify profitability drivers, sales performance, product trends, cost inefficiencies, and market expansion opportunities across multiple regions including the USA, UK, India, Canada, and Australia.
 
 ## 🎯 Key Objectives
+The organization faced challenges in tracking real-time profit margins across diverse product lines (Bars, Bites, etc.) and understanding the correlation between shipment volumes and operational costs.
+
+** Objectives:**
+** Analyze Profitability:** Monitor the 60.3% global profit margin and identify underperforming products.
+** Operational Efficiency:** Evaluate shipment distributions and cost-to-sales ratios.
+** Market Intelligence:** Compare performance across different global territories and product categories.
 * **Revenue Analysis:** Track total sales and shipment volumes (boxes) over time.
 * **Geographical Insights:** Identify high-performing regions (APAC, Americas, Europe).
 * **Product Performance:** Analyze sales by category (Bars, Bites, Others) and specific products.
