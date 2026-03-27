@@ -22,6 +22,18 @@ The organization faced challenges in tracking real-time profit margins across di
 *  **The "Efficiency Gap":** While total sales are high, the current month saw a 10.8% MoM decline, signaling a need for immediate marketing intervention.
 *  **Shipping Bottlenecks:** Shipment analysis shows a heavy concentration of small-batch shipments (0–500 units), which may be driving up the $14M total cost.
 
+## 🧭 Strategic Recommendations (Solutions)
+* **High-Margin Focus:**
+- Action: Allocate 20% more marketing budget to Choco Coated Almonds and Manuka Honey Choco.
+- Reason: These products have the highest "LBS %" and profit margins (76.4%+), offering the best ROI.
+
+* **Cost Optimization:**
+- Action: Review the logistics strategy for Baker's Choco Chips.
+- Reason: This product has the lowest profit margin at 17.4%, likely due to high production or shipping costs relative to its price point.
+
+# ##Regional Strategy:**
+- Action: Launch a "Recovery Campaign" in underperforming regions filtered by the interactive slicers to reverse the -10.8% MoM trend.
+
 ## 📊 Data Architecture
 The report is built on a robust relational data model (Star Schema):
 * **Shipment Data (Fact Table):** Contains transaction-level details (Sales, Boxes, Dates).
@@ -30,7 +42,7 @@ The report is built on a robust relational data model (Star Schema):
 * **People Dimension:** Sales team hierarchy and personnel details.
 * **Calendar Table:** A custom Date table used for Time Intelligence calculations (YoY, MTD, etc.).
 
-## 🛠️ Tools & Tech Stack
+## 🛠️ Tools & Tech Stack.
 - **Power BI Desktop:** For ETL, Data Modeling, and Visualization.
 - **Power Query:** Used for data cleaning and standardizing regional names.
 - **DAX (Data Analysis Expressions):** Created custom measures for:
@@ -38,6 +50,7 @@ The report is built on a robust relational data model (Star Schema):
     - `Total Boxes`
     - `Profit Margin %`
     - `Average Sales per Shipment`
+- **Interactive Features:** Bookmarks for switching between Sales, Boxes, Shipment, Cost, and Profit views.
 
 ## 💡 Business Insights
 - **Top Region:** The **APAC** region (specifically India and New Zealand) shows the highest frequency of high-volume shipments.
