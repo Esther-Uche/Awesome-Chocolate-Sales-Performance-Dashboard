@@ -2,7 +2,7 @@
 
 ![Awesome-Chocolate-Sales-Performance-Dashboard](./Awesome-Choco.png)
 ## 📋 Project Overview
-This project is a comprehensive **Power BI Sales Dashboard** designed for "Awesome Chocolate," a global chocolate distributor. The analysis provides deep insights into sales performance, product trends, and team efficiency across multiple international markets including India, USA, UK, Canada, Australia, and New Zealand.
+This Power BI project provides a 360-degree view of Awesome Chocolates' global operations analyzing $34M in total sales and 6K shipments inorder to identify profitability drivers, sales performance, product trends, cost inefficiencies, and market expansion opportunities across multiple regions including the USA, UK, India, Canada, and Australia.
 
 ## 🎯 Key Objectives
 * **Revenue Analysis:** Track total sales and shipment volumes (boxes) over time.
