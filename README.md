@@ -31,7 +31,7 @@ The organization faced challenges in tracking real-time profit margins across di
 - Action: Review the logistics strategy for Baker's Choco Chips.
 - Reason: This product has the lowest profit margin at 17.4%, likely due to high production or shipping costs relative to its price point.
 
-# ##Regional Strategy:**
+# **Regional Strategy:**
 - Action: Launch a "Recovery Campaign" in underperforming regions filtered by the interactive slicers to reverse the -10.8% MoM trend.
 
 ## 📊 Data Architecture
