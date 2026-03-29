@@ -18,6 +18,13 @@ The organization faced challenges in tracking real-time profit margins across di
 * **Sales Team Evaluation:** Monitor individual salesperson performance and team rankings (Team Yummies, Delish, Jucies).
 
 ## 🔍 Key Insights and Findings
+* ##Financial Performance (The "Big Numbers").**
+* **Total Revenue vs. Profit:** The organization generated $34M in revenue with a $21M profit, reflecting a healthy and robust 60.3% profit margin.
+* **The MoM Red Flag:** Despite the strong margin, there is a -10.8% Month-on-Month decline, with the current month contributing only $3M, signaling a need for immediate marketing intervention
+* **Cost Efficiency:** Total operational costs stand at $14M. The relationship between cost and profit is currently optimized at roughly 1.5:1 profit-to-cost ratio.
+* B. Product Analytics & Profitability MatrixThe product table reveals a massive variance in performance:High-Performing Heroes: Manuka Honey Choco (78.9% margin) and Orange Choco (79.5% margin) are the most efficient products in the portfolio.The Low-Margin Risk: Baker's Choco Chips stands out as a significant outlier with a meager 17.4% profit margin, despite having a relatively high "LBS %" (7.2%).Efficiency Leaders: Choco Coated Almonds yield a 76.4% profit margin while maintaining a lean shipping footprint (5.8% LBS).C. Shipment & Logistics AnalysisThe Shipment Analysis histogram shows a "Long Tail" distribution:High Volume, Low Density: The vast majority of shipments fall in the 0–500 boxes range.Operational Strain: With 6K total shipments and a total of 2M boxes, the average shipment size is relatively small, which explains the $14M cost overhead.
+
+
 * **Financial Health:** The business maintains a healthy 60.3% overall profit margin, generating $21M in profit from $34M in revenue.
 *  **Product Superstars:** Manuka Honey Choco and Orange Choco are top performers with profit margins exceeding 78%.
 *  **The "Efficiency Gap":** While total sales are high, the current month saw a 10.8% MoM decline, signaling a need for immediate marketing intervention.
@@ -52,6 +59,7 @@ The report is built on a robust relational data model (Star Schema):
 * **Geo Dimension:** Mapping countries to their respective global regions.
 * **People Dimension:** Sales team hierarchy and personnel details.
 * **Calendar Table:** A custom Date table used for Time Intelligence calculations (YoY, MTD, etc.).
+
 
 ## 🛠️ Tools & Tech Stack.
 - **Power BI Desktop:** For ETL, Data Modeling, and Visualization.
