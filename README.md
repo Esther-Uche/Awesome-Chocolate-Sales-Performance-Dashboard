@@ -32,14 +32,6 @@ The **Shipment Analysis** reveals a **"Long Tail" inefficiency** that is current
 
 ---
 
-### **🚨 3. Problem-to-Solution Framework**
-
-| Core Problem | Data Evidence | Executive Recommendation (Solution) |
-| :--- | :--- | :--- |
-| **Momentum Loss** | -10.8% MoM Sales Growth. | **Strategy:** Replicate the "Peak Season" marketing success (similar to the Vrinda Store Feb–April trend) to stabilize the current $3M monthly dip. |
-| **Margin Erosion** | *Baker's Choco Chips* at 17.4%. | **Action:** Conduct a "Cost of Goods Sold" (COGS) audit. If production costs cannot be lowered, consider decommissioning the SKU in favor of high-margin "Bars". |
-| **Logistics Overhead** | 6K shipments vs. $14M Cost. | **Action:** Implement a **Minimum Order Quantity (MOQ)** of 1,000 boxes to shift the shipment distribution and reduce per-unit freight costs. |
-| **Return Rate Risk** | [cite_start]Historical 7% return trend[cite: 37]. | **Strategy:** Investigate if the 17.4% margin products correlate with high returns, specifically checking for sizing/packaging inconsistencies. |
 
 ## 🧭 Strategic Recommendations (Solutions)
 * **High-Margin Focus:**
