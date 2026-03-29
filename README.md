@@ -30,20 +30,11 @@ The organization faced challenges in tracking real-time profit margins across di
 * **Efficiency Leaders:** Choco Coated Almonds yield a 76.4% profit margin while maintaining a lean shipping footprint (5.8% LBS).
 
 ## C. Shipment & Logistics Analysis.
-   The Shipment Analysis histogram shows a "Long Tail" distribution:
+   The Shipment Analysis histogram shows a "Long Tail" inefficiency that's currently bleeding operational capital:
 * **High Volume, Low Density:** The vast majority of shipments fall in the 0–500 boxes range.
-* **Operational Strain:** With 6K total shipments and a total of 2M boxes, the average shipment size is relatively small, which explains the $14M cost overhead.
-
-
-*  ### Logistics and Shipment Analysis**
-The **Shipment Analysis** reveals a **"Long Tail" inefficiency** that is currently bleeding operational capital:
-
-* **Shipment Count:** 6K total shipments.
-* **Volume:** 2M total boxes.
-* **The Constraint:** The histogram shows a heavy skew toward shipments of **<500 boxes**, indicating that the **$14M cost** is likely driven by high-frequency, small-batch logistics rather than optimized bulk shipping.
+* **Operational Strain:** With 6K total shipments and a total of 2M boxes, the average shipment size is relatively small, which explains the $14M cost overhead which is likely driven by high-frequency, small-batch logistics rather than optimized bulk shipping.
 
 ---
-
 
 ## 🧭 Strategic Recommendations (Solutions)
 * **High-Margin Focus:**
