@@ -58,7 +58,8 @@ The report is built on a robust relational data model (Star Schema):
 
 
 ## 🛠️ Tools & Tech Stack.
-- **Power BI Desktop:** For ETL, Data Modeling, and Visualization.
+- **Power BI Desktop:** For Data Modeling, and Visualization.
+- **Visualizations:** Gauge charts for margin tracking, line charts for trend analysis, and interactive tables with conditional formatting (Data Bars) for product comparisons.
 - **Power Query:** Used for data cleaning and standardizing regional names.
 - **DAX (Data Analysis Expressions):** Created custom measures for:
     - `Total Sales`
