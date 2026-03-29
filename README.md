@@ -72,19 +72,12 @@ The report is built on a robust relational data model (Star Schema):
 - **Top Product:** Premium items like **85% Dark Bars** and **Raspberry Choco** are major revenue drivers.
 - **Team Efficiency:** **Team Yummies** consistently leads in total sales volume across most quarters.
 
-## 📂 How to Use
-1.  **Download** the `Awesome Chocolate.pbix` file.
-2.  Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-3.  Interact with the **Slicers** on the left to filter by Region, Product, or Salesperson.
-
 ---
 
 ## 👤 Author
 **[Uchechi Esther]**
-*Data Analyst | Power BI Enthusiast*
+*Data Analyst | Power BI | Excel | SQL| Python*
 
 
 
----
-*Note: This project uses sample data for demonstration purposes.*
 
