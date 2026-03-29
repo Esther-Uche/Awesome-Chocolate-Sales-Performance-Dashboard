@@ -29,7 +29,7 @@ The organization faced challenges in tracking real-time profit margins across di
 * **The Low-Margin Risk:** Baker's Choco Chips stands out as a significant outlier with a meager 17.4% profit margin, despite having a relatively high "LBS %" (7.2%).
 * **Efficiency Leaders:** Choco Coated Almonds yield a 76.4% profit margin while maintaining a lean shipping footprint (5.8% LBS).
 
-## C. Shipment & Logistics Analysis:**
+## C. Shipment & Logistics Analysis:
    The Shipment Analysis histogram shows a "Long Tail" distribution:
 * **High Volume, Low Density:** The vast majority of shipments fall in the 0–500 boxes range.
 * **Operational Strain:** With 6K total shipments and a total of 2M boxes, the average shipment size is relatively small, which explains the $14M cost overhead.
