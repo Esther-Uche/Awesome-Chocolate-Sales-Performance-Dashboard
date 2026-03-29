@@ -18,7 +18,7 @@ The organization faced challenges in tracking real-time profit margins across di
 * **Sales Team Evaluation:** Monitor individual salesperson performance and team rankings (Team Yummies, Delish, Jucies).
 
 ## 🔍 Key Insights and Findings
-* ##Financial Performance (The "Big Numbers").**
+## A.Financial Performance (The "Big Numbers").
 * **Total Revenue vs. Profit:** The organization generated $34M in revenue with a $21M profit, reflecting a healthy and robust 60.3% profit margin.
 * **The MoM Red Flag:** Despite the strong margin, there is a -10.8% Month-on-Month decline, with the current month contributing only $3M, signaling a need for immediate marketing intervention
 * **Cost Efficiency:** Total operational costs stand at $14M. The relationship between cost and profit is currently optimized at roughly 1.5:1 profit-to-cost ratio.
